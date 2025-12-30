@@ -1,3 +1,20 @@
 *{
     background-color: rgb(209, 125, 104);
 }
+
+.botonUno,
+.botonDos {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    border: solid;
+    border-color: blue;
+}
+
+.botonUno{
+    background-color: black;
+    color: white;
+}
+
+.botonDos{
+    background-color: rgb(233, 233, 80);
+}
